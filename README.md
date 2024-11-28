@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FPV detection software<br>🤝 I’m looking for help with FPW datasets<br>🌱 I’m currently learning AI technology <br>💬 Ask me about FPV<br>
+🔭 I’m currently working on FPV detection software<br>🤝 I’m looking for help with FPV datasets<br>🌱 I’m currently learning AI technology <br>💬 Ask me about FPV<br>
 
 
 # 💻 Tech Stack:
