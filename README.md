@@ -1,4 +1,4 @@
-### Hi, I'm Makar  
+## Hi, I'm Makar  
 💻 Software Dev | 🔐 Low- and High-level Systems Programming
 
 # 💻 Tech Stack:
